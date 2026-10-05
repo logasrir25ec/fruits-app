@@ -1,0 +1,6 @@
+{
+  "name": "Pomona Harvest - Farm-Fresh Seasonal Fruits",
+  "description": "Artisanal seasonal fruit marketplace delivering peak-ripeness orchard fruits, curated harvest crates, and farm-direct berries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
